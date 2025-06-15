@@ -3,11 +3,11 @@
   <title>pxpPorrow</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://superpxp.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://superpxp.github.io/"/>
   <updated>2025-06-15T05:35:29.208Z</updated>
-  <id>http://example.com/</id>
+  <id>https://superpxp.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>git push到仓库的完整流程</title>
-    <link href="http://example.com/2025/06/15/git-push%E5%88%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B/"/>
-    <id>http://example.com/2025/06/15/git-push%E5%88%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B/</id>
+    <link href="https://superpxp.github.io/2025/06/15/git-push%E5%88%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B/"/>
+    <id>https://superpxp.github.io/2025/06/15/git-push%E5%88%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B/</id>
     <published>2025-06-15T05:28:26.000Z</published>
     <updated>2025-06-15T05:35:29.208Z</updated>
     
@@ -36,8 +36,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/06/13/hello-world/"/>
-    <id>http://example.com/2025/06/13/hello-world/</id>
+    <link href="https://superpxp.github.io/2025/06/13/hello-world/"/>
+    <id>https://superpxp.github.io/2025/06/13/hello-world/</id>
     <published>2025-06-13T15:01:05.962Z</published>
     <updated>2025-06-13T15:01:05.963Z</updated>
     
