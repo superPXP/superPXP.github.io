@@ -3,7 +3,7 @@
   <entry>
     <title>git push到仓库的完整流程</title>
     <url>/git-push%E5%88%B0%E4%BB%93%E5%BA%93%E7%9A%84%E5%AE%8C%E6%95%B4%E6%B5%81%E7%A8%8B/</url>
-    <content><![CDATA[<h2 id="git-push到仓库的完整流程"><a href="#git-push到仓库的完整流程" class="headerlink" title="git push到仓库的完整流程"></a>git push到仓库的完整流程</h2><p>作为一个新手，第一次使用git push到仓库，感觉很麻烦，记录一下，方便以后使用，同时也希望能帮助读者。</p>
+    <content><![CDATA[<h1 id="git-push到仓库的完整流程"><a href="#git-push到仓库的完整流程" class="headerlink" title="git push到仓库的完整流程"></a>git push到仓库的完整流程</h1><p>作为一个新手，第一次使用git push到仓库，感觉很麻烦，记录一下，方便以后使用，同时也希望能帮助读者。</p>
 <ul>
 <li>第一步：初始化git</li>
 </ul>
